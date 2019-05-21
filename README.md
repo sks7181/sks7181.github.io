@@ -32,8 +32,6 @@
  - 사용언어 : Java
  - GUI : Java Swing <br/>
  
-### 관련영상
-  [![Watch the video](https://img.youtube.com/vi/AVnaVDQXX8I/0.jpg)](https://youtu.be/AVnaVDQXX8I)
  - <a href="https://github.com/bumheehan/1to50">코드 및 실행파일</a><br/>
  
 ### 수행내역
