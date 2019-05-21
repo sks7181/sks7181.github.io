@@ -34,5 +34,6 @@
  - <a href="https://github.com/sks7181/catchmind">코드 및 실행파일</a><br/>
  
 ### 수행내역
+
 -디자인 UI 개발
 -게임 알고리즘 개발 및 디버깅
