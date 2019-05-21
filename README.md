@@ -31,7 +31,7 @@
  - 사용언어 : Java
  - GUI : Java Swing <br/>
  
- - <a href="https://github.com/bumheehan/1to50">코드 및 실행파일</a><br/>
+ - <a href="https://github.com/sks7181/catchmind">코드 및 실행파일</a><br/>
  
 ### 수행내역
 -디자인 UI 개발
