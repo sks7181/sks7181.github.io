@@ -17,7 +17,6 @@
   [![Watch the video](https://img.youtube.com/vi/w5eQlGDR6lE/0.jpg)]( https://www.youtube.com/watch?v=66eBnYSn1Ko)<br/>
   
 ### 수행내역
- - 메인 페이지 디자인 및 JSP 구현
  - 회원가입 구현
  - 스프링 시큐리티 구현
  - AWS 리눅스에 RDS로 구현했지만 요금 청구 가능성으로 GCP와 구글SQL로 교체
